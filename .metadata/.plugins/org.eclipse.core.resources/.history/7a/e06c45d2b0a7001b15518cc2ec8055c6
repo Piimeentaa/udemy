@@ -1,0 +1,20 @@
+package escrita.inicial;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double x = 10.35784;
+		
+		System.out.println("Bom dia");
+		System.out.println("Bom tarde");
+		
+		System.out.print(x);
+		System.out.printf("%2.f%n" , x);
+
+
+
+	}
+
+}
