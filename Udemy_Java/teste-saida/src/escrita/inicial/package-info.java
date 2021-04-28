@@ -1,1 +1,0 @@
-package escrita.inicial;
